@@ -1,5 +1,6 @@
 <!-- Profile Header -->
-<img src="https://media.giphy.com/media/xT1R9YfLzR8jJv3IdO/giphy.gif" width="100%" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
+
 
 # 👋 Hey, I'm Taha Awan
 
