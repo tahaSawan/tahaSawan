@@ -1,7 +1,4 @@
 <!-- Profile Header -->
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" />
-
-
 # 👋 Hey, I'm Taha Awan
 
 I'm an explorer, builder, and problem-solver — focused on Robotics 🤖, AI 🧠, and full-stack development. I love creating things that live at the intersection of **hardware, software, and intelligence**.
