@@ -4,12 +4,12 @@
 
 <!-- Badges -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=tahaawan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=tahaSawan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
   <a href="https://github.com/tahaawan?tab=followers">
-    <img src="https://img.shields.io/github/followers/tahaawan?label=Followers&style=social" alt="GitHub followers" />
+    <img src="https://img.shields.io/github/followers/tahaSawan?label=Followers&style=social" alt="GitHub followers" />
   </a>
   <a href="https://github.com/tahaawan?tab=repositories">
-    <img src="https://img.shields.io/github/stars/tahaawan?label=Stars&style=social" alt="GitHub stars" />
+    <img src="https://img.shields.io/github/stars/tahaSawan?label=Stars&style=social" alt="GitHub stars" />
   </a>
 </p>
 
