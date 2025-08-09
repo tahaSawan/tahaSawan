@@ -1,8 +1,3 @@
-<!-- Banner -->
-<p align="center">
-  <img src="https://media.giphy.com/media/26Fxy3Iz1ari8oytO/giphy.gif" width="100%" alt="Banner" />
-</p>
-
 <!-- Heading -->
 <h1 align="center">Hi there, I'm Taha 👋🤖</h1>
 <h3 align="center">AI & Robotics Enthusiast | Innovator</h3>
@@ -10,8 +5,12 @@
 <!-- Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=tahaawan&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/tahaawan?label=Followers&style=social" alt="GitHub followers" />
-  <img src="https://img.shields.io/github/stars/tahaawan?label=Stars&style=social" alt="GitHub stars" />
+  <a href="https://github.com/tahaawan?tab=followers">
+    <img src="https://img.shields.io/github/followers/tahaawan?label=Followers&style=social" alt="GitHub followers" />
+  </a>
+  <a href="https://github.com/tahaawan?tab=repositories">
+    <img src="https://img.shields.io/github/stars/tahaawan?label=Stars&style=social" alt="GitHub stars" />
+  </a>
 </p>
 
 ---
@@ -19,8 +18,8 @@
 ### 🚀 About Me  
 💡 Passionate about **AI, Machine Learning, Deep Learning, NLP, and Robotics**  
 📚 Currently learning **Data Science, ML, NLP, OpenCV, and Generative AI**  
-🤖 I dream of creating intelligent robots that blend **creativity, autonomy, and utility**  
-💻 I code in **Python, C++, JavaScript**, and more  
+🤖 Dreaming of creating intelligent robots that blend **creativity, autonomy, and utility**  
+💻 Coding in **Python, C++, JavaScript**, and more  
 🌱 Always building, experimenting, and improving  
 
 ---
@@ -46,7 +45,7 @@
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
 
-  <!-- Others -->
+  <!-- Tools -->
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" />
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
@@ -63,15 +62,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahaawan&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahaawan&theme=tokyonight" alt="GitHub Streak" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tahaawan&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=tahaawan&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaawan&layout=compact&theme=tokyonight" alt="Most Used Languages" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tahaawan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
