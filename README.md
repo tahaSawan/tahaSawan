@@ -8,7 +8,7 @@
   <a href="https://github.com/tahaawan?tab=followers">
     <img src="https://img.shields.io/github/followers/tahaSawan?label=Followers&style=social" alt="GitHub followers" />
   </a>
-  <a href="https://github.com/tahaawan?tab=repositories">
+  <a href="https://github.com/tahaSawan?tab=repositories">
     <img src="https://img.shields.io/github/stars/tahaSawan?label=Stars&style=social" alt="GitHub stars" />
   </a>
 </p>
@@ -62,15 +62,15 @@
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tahaawan&show_icons=true&theme=tokyonight" height="165" />
-  <img src="https://streak-stats.demolab.com?user=tahaawan&theme=tokyonight&hide_border=true" height="165" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tahaSawan&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://streak-stats.demolab.com?user=tahaSawan&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
 ---
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tahaawan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tahaSawan&layout=compact&theme=tokyonight" />
 </p>
 
 ---
@@ -80,6 +80,4 @@
 
 ---
 
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="400" alt="Robot GIF" />
-</p>
+
