@@ -50,19 +50,12 @@
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </p>
 
----
+--- 
 
-### 📌 What I Worked On Last Week
-- 🚀 Improved an **OpenCV-based image processing pipeline** for object detection  
-- 🤖 Experimented with **robot control logic** using Python and C++  
-- 📊 Built a small **ML model for gesture recognition**  
-- 🧠 Played with **NLP embeddings for conversational AI**  
-
----
 
 ### 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=tahaSawan&show_icons=true&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api?username=tahaSawan&show_icons=true&theme=tokyonight" height="165" />
   <img src="https://streak-stats.demolab.com?user=tahaSawan&theme=tokyonight&hide_border=true" height="165" />
 </p>
 
@@ -70,8 +63,9 @@
 
 ### 📊 Most Used Languages
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=tahaSawan&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tahaSawan&layout=compact&theme=tokyonight" />
 </p>
+
 
 ---
 
