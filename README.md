@@ -69,8 +69,8 @@
 
 ---
 
-### ✨ Fun Fact
-> *"Robots are not just machines; they're mirrors of human imagination."*
+### ✨ Moto
+> *"Your Limitation its only your IMAGINATION"*
 
 ---
 
