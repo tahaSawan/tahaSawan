@@ -69,7 +69,6 @@
 
 ---
 
-### ✨ Moto
 > *"Your Limitation its only your IMAGINATION"*
 
 ---
