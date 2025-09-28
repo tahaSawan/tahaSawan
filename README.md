@@ -1,5 +1,5 @@
 <!-- Heading -->
-<h1 align="center">Hi there, I'm Taha 👋🤖</h1>
+<h1 align="center">Hi there, I'm Taha 🤖</h1>
 <h3 align="center">AI & Robotics Enthusiast | Innovator</h3>
 
 <!-- Badges -->
